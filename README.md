@@ -6,3 +6,8 @@ For more details, see the paper:
 EL MANSOURI, Oumaima, VIDAL, Fabien, BASARAB, Adrian, et al. Fusion of magnetic resonance and ultrasound images for endometriosis detection. IEEE Transactions on Image Processing, 2020, vol. 29, p. 5324-5335.
 
 NB: in this version of code, PALM algoritm was implemented without backtraking step.
+
+How to run this code: run the demo script. In image folder, you can find to images MRI and US images (phantom images decribed in the article below)
+
+This code is in development stage; thus any comments or bug reports are very welcome.
+Contact: oumaima.el-mansouri@irit.fr
