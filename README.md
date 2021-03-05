@@ -7,7 +7,7 @@ EL MANSOURI, Oumaima, VIDAL, Fabien, BASARAB, Adrian, et al. Fusion of magnetic 
 
 NB: in this version of code, PALM algoritm was implemented without backtraking step.
 
-#### How to run this code: Edit and run the demo script. In image folder, you can find to images MRI and US images (phantom images decribed in the article below)
+#### How to run this code: Edit and run the demo script. In image folder, you can find two images MRI and US images (phantom images decribed in the article below)
 
 This code is in development stage, thus any comments or bug reports are very welcome.
 
