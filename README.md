@@ -1,1 +1,2 @@
-# Fusion_MRI_US
+# Fusion of Magnetic Resonance and Ultrasound Images
+
