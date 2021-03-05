@@ -5,4 +5,4 @@ This code introduces a new fusion method for magnetic resonance (MR) and ultraso
 For more details, see the paper: 
 EL MANSOURI, Oumaima, VIDAL, Fabien, BASARAB, Adrian, et al. Fusion of magnetic resonance and ultrasound images for endometriosis detection. IEEE Transactions on Image Processing, 2020, vol. 29, p. 5324-5335.
 
-NB: in this version of code, PALM algoritm was implemented without backtraking step
+NB: in this version of code, PALM algoritm was implemented without backtraking step.
